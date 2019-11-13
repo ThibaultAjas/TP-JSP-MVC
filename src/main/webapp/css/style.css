@@ -1,0 +1,19 @@
+/* 
+    Created on : 5 nov. 2019, 13:29:57
+    Author     : Dalfrak
+*/
+
+#table {
+    padding:1px
+}
+
+#table td {
+    border: 1px solid black;
+    padding:1px
+}
+
+#thead td {
+    background-color: grey;
+    color: white;
+    text-align: center;
+}
